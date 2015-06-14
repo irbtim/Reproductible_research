@@ -1,2 +1,2 @@
 # Reproductible_research
-data science
+Here you can find Reproductible research course
